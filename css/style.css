@@ -50,6 +50,7 @@ h5, .h5 {
   background-image:url(../images/howitwork_pic.jpg);
   background-repeat: no-repeat;
   background-position: center bottom;
+  background-size: cover;
   padding-top:30px;
   padding-bottom:30px;
 }
